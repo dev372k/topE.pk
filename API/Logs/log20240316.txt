@@ -1,0 +1,25 @@
+2024-03-16 03:28:45.785 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 03:30:14.271 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-03-16 04:44:02.263 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 04:51:11.440 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 05:24:01.017 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 05:25:54.365 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 05:27:56.408 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 05:37:16.377 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 05:38:18.145 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 05:38:35.608 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-03-16 06:13:28.927 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 06:14:22.403 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 06:14:44.132 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-03-16 18:25:22.838 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 18:26:31.340 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
+2024-03-16 18:26:36.931 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - API.Controllers.CategoryController.Put (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-03-16 18:27:27.380 +05:00 [WRN] The WebRootPath was not found: D:\PD projects\topE-BackEnd\topE.v1\API\wwwroot. Static files may be unavailable.
